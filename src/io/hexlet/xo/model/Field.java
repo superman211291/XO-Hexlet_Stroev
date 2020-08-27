@@ -4,7 +4,7 @@ import java.awt.*;
 
 public class Field {
 
-    private final int SIZE = 3;
+    private static final int SIZE = 3;
 
     private final Figure[][] field = new Figure[SIZE][SIZE];
 
