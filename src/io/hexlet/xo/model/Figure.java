@@ -1,5 +1,5 @@
 package io.hexlet.xo.model;
 
-enum Figure {
+public enum Figure {
     X, O
 }
